@@ -11,39 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 24 Jun 2023 12:24:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Jun 2023 12:06:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-	<item>
-		<title>
-		Comment on Hopefully we might be able to employ others &#8211; Winnie Dabi Diamond (CEO &#8211; Nectar Juice Gh) by Build Up Multimedia		</title>
-		<link>/2020/02/08/hopefully-we-might-be-able-to-employ-others-winnie-dabi-diamond-ceo-nectar-juice-gh/#comment-28</link>
-
-		<dc:creator><![CDATA[Build Up Multimedia]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2020 10:01:13 +0000</pubDate>
-		<guid isPermaLink="false">https://consultbuildup.blogspot.com/2020/02/nectar-juice-gh.html#comment-28</guid>
-
-					<description><![CDATA[...the best in all you do. You&#039;re doing great!]]></description>
-			<content:encoded><![CDATA[<p>&#8230;the best in all you do. You&#039;re doing great!</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on Hopefully we might be able to employ others &#8211; Winnie Dabi Diamond (CEO &#8211; Nectar Juice Gh) by JoeOkat		</title>
-		<link>/2020/02/08/hopefully-we-might-be-able-to-employ-others-winnie-dabi-diamond-ceo-nectar-juice-gh/#comment-27</link>
-
-		<dc:creator><![CDATA[JoeOkat]]></dc:creator>
-		<pubDate>Sat, 08 Feb 2020 06:41:05 +0000</pubDate>
-		<guid isPermaLink="false">https://consultbuildup.blogspot.com/2020/02/nectar-juice-gh.html#comment-27</guid>
-
-					<description><![CDATA[The force of entrepreneurial elevation be with you and your entity.]]></description>
-			<content:encoded><![CDATA[<p>The force of entrepreneurial elevation be with you and your entity.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
