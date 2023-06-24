@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://localhost/wordpress/hiring-now/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://localhost/wordpress/hiring-now/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="https://localhost/wordpress/hiring-now/feed/">https://localhost/wordpress/hiring-now/feed/</a></p>
+	</body>
+</html>

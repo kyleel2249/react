@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Conflict Archives - The New Vibes</title>
+	<atom:link href="/tag/conflict/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/conflict/</link>
+	<description>Your source for the latest trends in business, Technology, Marketing, Lifestyle, Candid Vibez, Energy, and Health. With our fresh perspective and innovative approach, we bring you the insights and inspiration you need to thrive and be more productive in today&#039;s fast-paced world. Join our community and start creating the future you want today wherever you find yourself!</description>
+	<lastBuildDate>Tue, 18 Apr 2023 12:23:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Sorry Child, I&#8217;m Not Sorry</title>
+		<link>/2023/04/18/sorry-child-im-not-sorry/</link>
+		
+		<dc:creator><![CDATA[Sianokie]]></dc:creator>
+		<pubDate>Tue, 18 Apr 2023 12:23:00 +0000</pubDate>
+				<category><![CDATA[candid vibez]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Conflict]]></category>
+		<category><![CDATA[Family Feuds]]></category>
+		<category><![CDATA[Parenting]]></category>
+		<guid isPermaLink="false">http://localhost/blogger/2023/04/18/sorry-child-im-not-sorry/</guid>
+
+					<description><![CDATA[<p>Fortunately, or unfortunately, we don’t get to choose our family members. As we let out our first cry as babies, we are surrounded by people to whom we give the biological right and ability to make us shed heart-wrenching tears for the rest of our lives. Let’s say some family members explore this ability way...</p>
+<p>The post <a rel="nofollow" href="/2023/04/18/sorry-child-im-not-sorry/">Sorry Child, I&#8217;m Not Sorry</a> appeared first on <a rel="nofollow" href="">The New Vibes</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
